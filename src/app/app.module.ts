@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import {MatToolbarModule, MatButtonModule, MatCheckboxModule, MatListModule, MatGridListModule, MatCardModule} from '@angular/material';
 import { FlexLayoutModule } from '@angular/flex-layout';
 
-import 'hammerjs';
+
 import { AppComponent } from './app.component';
 import { MenuComponent } from './menu/menu.component';
 import { DishdetailComponent } from './dishdetail/dishdetail.component';
